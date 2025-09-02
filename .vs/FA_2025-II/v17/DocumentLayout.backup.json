@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D18FEC83-A377-47C6-802B-A18B48F0A256}|SEMANA3_PYTHON\\SEMANA3_PYTHON.pyproj|C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D18FEC83-A377-47C6-802B-A18B48F0A256}|SEMANA3_PYTHON\\SEMANA3_PYTHON.pyproj|solutionrelative:SEMANA3_PYTHON\\SEMANA3_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F048E7-B00C-42BB-AF11-4F0EEEAD385E}|SEMANA3_C#\\SEMANA3_C#.csproj|c:\\users\\upn\\downloads\\fa\\fa_2025-ii\\semana3_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F048E7-B00C-42BB-AF11-4F0EEEAD385E}|SEMANA3_C#\\SEMANA3_C#.csproj|solutionrelative:semana3_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SEMANA3_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "RelativeDocumentMoniker": "SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "RelativeToolTip": "SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-02T20:11:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\SEMANA3_C#\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA3_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\FA\\FA_2025-II\\SEMANA3_C#\\Program.cs",
+              "RelativeToolTip": "SEMANA3_C#\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:50:37.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
