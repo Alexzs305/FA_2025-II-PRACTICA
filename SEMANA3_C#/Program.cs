@@ -31,7 +31,13 @@ namespace SEMANA3_C_
         }
         static void ejer2()
         {
+            Console.WriteLine("Ingrese un numero x: ");
+            int x = int.Parse(console.readline());
 
+            console.writeline("Ingrese un numero y: ");
+            int y = Convert.ToInt32(console.readline());
+
+            double reesultado = 
         }
         static void ejer3()
         {
