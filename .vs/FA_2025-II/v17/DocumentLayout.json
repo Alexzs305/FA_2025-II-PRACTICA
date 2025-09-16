@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D18FEC83-A377-47C6-802B-A18B48F0A256}|SEMANA3_PYTHON\\SEMANA3_PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{BF9AEFB0-3756-4CE5-B397-8A2E403196A7}|SEMANA5_PY\\SEMANA5_PY.pyproj|C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF9AEFB0-3756-4CE5-B397-8A2E403196A7}|SEMANA5_PY\\SEMANA5_PY.pyproj|solutionrelative:SEMANA5_PY\\SEMANA5_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18FEC83-A377-47C6-802B-A18B48F0A256}|SEMANA3_PYTHON\\SEMANA3_PYTHON.pyproj|C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D18FEC83-A377-47C6-802B-A18B48F0A256}|SEMANA3_PYTHON\\SEMANA3_PYTHON.pyproj|solutionrelative:SEMANA3_PYTHON\\SEMANA3_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F048E7-B00C-42BB-AF11-4F0EEEAD385E}|SEMANA3_C#\\SEMANA3_C#.csproj|C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\semana3_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1F048E7-B00C-42BB-AF11-4F0EEEAD385E}|SEMANA3_C#\\SEMANA3_C#.csproj|C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\semana3_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F048E7-B00C-42BB-AF11-4F0EEEAD385E}|SEMANA3_C#\\SEMANA3_C#.csproj|solutionrelative:semana3_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SEMANA5_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA5_PY\\SEMANA5_PY.py",
+              "RelativeDocumentMoniker": "SEMANA5_PY\\SEMANA5_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA5_PY\\SEMANA5_PY.py",
+              "RelativeToolTip": "SEMANA5_PY\\SEMANA5_PY.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-16T20:32:47.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SEMANA3_PYTHON.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
               "RelativeDocumentMoniker": "SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
               "RelativeToolTip": "SEMANA3_PYTHON\\SEMANA3_PYTHON.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwE0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T20:11:10.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\SEMANA3_C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA3_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA3_C#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\FUNDAMENTOS DE ALGORITMOS\\FA_2025-II-PRACTICA\\SEMANA3_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\FUN_AL_2025_II_SEM05\\FA_2025-II-PRACTICA\\SEMANA3_C#\\Program.cs",
               "RelativeToolTip": "SEMANA3_C#\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:50:37.65Z",
               "EditorCaption": ""

@@ -34,5 +34,48 @@ def ejer5():
     print("Resto: ", (entero%2))
     print("Division: ", (deci/3))
 
-ejer5()
- 
+def ejer6():
+    s # type: ignore
+
+def ejer7():
+    monto  = float(input("Ingrese el monto en soles: "))
+
+    print("\n1. Dolares\n2. Euros")
+
+    opcion = int(print("\nIngrese una opción: "))
+
+    match opcion:
+        case 1: print("DOLARES: ", round(monto / 3.75))
+        case 2: print(f"EUROS: , {monto/4.85:.2f}")
+        case _: print("OPCION INCORRECTA")
+
+import match
+
+def ejer8():
+    print("BIENVENIDO AL SISTEMA DE CALCULO DE ÁREAS")
+    print("1. Cuadrado")
+    print("2. Rectangulo")
+    print("3.Triángulo")
+    print("4. Circulo")
+
+    opcion = int(input("Ingrese una opción: "))
+
+    match opcion:
+        case 1:
+            lado = int(input("Ingresa el lado: "))
+            print("Area: ", lado*lado)
+        case 2: 
+            bse = int(input("Ingrese la base: "))
+            alt = int(input("Ingrese la altura: "))
+            print("Area rectangulo: ", (bse*alt)/2)
+        case 3:
+            bse2 = int(input("Ingrese la base: "))
+            alt2 = int(input("Ingrese la altura: "))
+            print("Area triangulo: ", (bse2*alt2)/2)
+        case 4: 
+            radio = float(input("Ingrese el radio: "))
+            print("Area del circulo: ",(round(math.pi * radio **2),2))
+        case _:print("Opcion Incorrecta")
+
+
+ejer8()

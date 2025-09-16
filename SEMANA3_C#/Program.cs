@@ -10,7 +10,7 @@ namespace SEMANA3_C_
     {
         static void Main(string[] args)
         {
-            ejer5();
+
         }
         static void ejer1() 
         {
@@ -77,6 +77,10 @@ namespace SEMANA3_C_
         static void ejer6()
         {
 
+        }
+        static void ejer7() 
+        {
+            
         }
     }
 }
